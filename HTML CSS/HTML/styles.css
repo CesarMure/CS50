@@ -1,0 +1,36 @@
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    align-content: center;
+    justify-content: center;
+    text-decoration:underline;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    box-shadow: 2px;
+    padding: 2;
+
+}
+
+.left{
+    max-height: 1080px;
+    max-width: 960px;
+    color: black;
+    object-position: 0px 0px ;
+}
+
+.table{
+    border: 1px solid black;
+}
+.headers{
+    border: 1px solid black;
+    justify-content: center;
+    align-content: center;
+}
+.row{
+    
+}
+
+.table{
+    justify-content: center;
+}
